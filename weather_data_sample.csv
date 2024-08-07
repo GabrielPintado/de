@@ -1,0 +1,11 @@
+city,temperature,humidity,weather,timestamp
+New York,19.18,90,light intensity drizzle,2024-08-07 22:38:59
+Los Angeles,29.44,54,clear sky,2024-08-07 22:42:39
+Chicago,24.3,56,scattered clouds,2024-08-07 22:39:53
+Houston,36.45,47,scattered clouds,2024-08-07 22:39:41
+Atlanta,33.59,49,clear sky,2024-08-07 22:41:10
+New York,19.19,90,overcast clouds,2024-08-07 22:59:24
+Los Angeles,29.15,52,clear sky,2024-08-07 23:02:02
+Chicago,24.05,57,few clouds,2024-08-07 22:56:50
+Houston,36.33,48,scattered clouds,2024-08-07 22:49:31
+Atlanta,33.24,50,clear sky,2024-08-07 22:51:16
